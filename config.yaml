@@ -1,4 +1,4 @@
 stripePublishKey: "pk_live..."
-stripePrivateKey: "sk_live_..."
-ammount: "...."
+stripePrivateKey: "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"
+ammount: "1$"
 currency: "usd"
